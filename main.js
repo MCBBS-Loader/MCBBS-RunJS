@@ -4,7 +4,7 @@
 // @icon https://www.picbed.cn/images/2020/11/13/OIP.jpg
 // @author <a href='https://github.com/MCBBS-Loader' target='_blank'>MCBBS-Loader</a>
 // @update https://cdn.jsdelivr.net/gh/MCBBS-Loader/MCBBS-RunJS@main/main.js
-// @version 1.0.0
+// @version 1.1.0
 // -MCBBS-Module
 var $ = window.AjQuery.$;
 $("div.blockcode").each((i, eld) => {
