@@ -5,7 +5,7 @@
 // @author <a href='https://github.com/MCBBS-Loader' target='_blank'>MCBBS-Loader</a>
 // @update https://cdn.jsdelivr.net/gh/MCBBS-Loader/MCBBS-RunJS@main/main.js
 // @description 执行 MCBBS 代码框中的 JavaScript！
-// @version 1.1.0
+// @version 1.1.1
 // -MCBBS-Module
 var $ = window.AjQuery.$;
 $("div.blockcode").each((i, eld) => {
